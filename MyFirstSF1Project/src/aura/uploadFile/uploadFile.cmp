@@ -1,5 +1,6 @@
 <aura:component implements="flexipage:availableForAllPageTypes,force:hasRecordId,force:appHostable" 
                 controller="FileController2"  >
+                This is my new Change in the Branch2 to see
 	<aura:attribute name="recordId" type="Id" />
     <aura:attribute name="isDisplayBrowseFile" type="String" />
    
